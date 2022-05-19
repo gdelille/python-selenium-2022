@@ -1,5 +1,7 @@
 # EJERCICIO
-# rear un Test Case que evalpúe el método es_par
+# Crear un Test Case que evalúe el método es_par
+# y determine si el resultado es par o impar
+# En el caso de ser impar, se deberá marcar un error.
 
 def es_par(a,b):
     if a % 2 == 0 and b % 2 == 0:
